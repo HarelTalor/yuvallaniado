@@ -12,8 +12,8 @@ export default function Hero() {
           alt="Yuval Laniado - מומחית לעיצוב גבות והלחמת ריסים" 
           className="w-full h-full object-cover object-center scale-105 blur-[1px]"
         />
-        {/* Light White Professional Overlay */}
-        <div className="absolute inset-0 bg-white/45 z-[1]" />
+        {/* Balanced White Professional Overlay */}
+        <div className="absolute inset-0 bg-white/15 z-[1]" />
         {/* Bottom Blend Gradient */}
         <div className="absolute inset-x-0 bottom-0 h-40 bg-gradient-to-t from-background via-background/20 to-transparent z-[2]" />
       </div>
