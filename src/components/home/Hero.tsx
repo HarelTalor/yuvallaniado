@@ -55,7 +55,7 @@ export default function Hero() {
             <Button 
                asChild 
                size="lg" 
-               className="w-[85%] max-w-[220px] sm:w-[200px] rounded-full px-6 h-12 md:h-14 text-base md:text-lg font-bold gradient-brand shimmer text-white shadow-[0_0_20px_rgba(229,193,179,0.3)] transition-all hover:scale-105 active:scale-95"
+               className="w-[85%] max-w-[220px] sm:w-[200px] rounded-full px-6 h-12 md:h-14 text-base md:text-lg font-bold gradient-brand shimmer text-[#2B1F1C] shadow-[0_4px_20px_rgba(43,31,28,0.1)] transition-all hover:scale-105 active:scale-95"
             >
               <a href="https://wa.me/9725XXXXXXXX" target="_blank" rel="noreferrer">
                 קבעו תור עכשיו
