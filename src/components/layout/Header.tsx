@@ -33,9 +33,9 @@ export default function Header() {
           <Link to="/" className="flex items-center gap-3 group">
             <div className="relative h-12 w-12 md:h-14 md:w-14 transition-transform group-hover:scale-105 duration-300">
                 <img 
-                  src="/images/logo.png" 
+                  src="/images/logo_circle.png" 
                   alt="Yuval Laniado Logo" 
-                  className="w-full h-full object-contain" 
+                  className="w-full h-full object-contain filter drop-shadow-sm transition-all duration-300 group-hover:drop-shadow-md" 
                 />
             </div>
             <div className="flex flex-col items-start translate-y-[1px]">
